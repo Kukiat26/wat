@@ -63,9 +63,10 @@ letter-spacing: .2rem;
     transition: .4s all;
 }
 .div5 img:hover {
-    width: 70%;
+  
+    width: 100%;
     border: none;
-    width: 1080px;
+   max-width: 100%;
     transition: .7s ease-in;
 }
 
